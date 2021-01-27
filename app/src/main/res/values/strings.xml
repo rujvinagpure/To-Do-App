@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">To Do App</string>
+
+
+    <string name="enter_chore">Enter a Chore</string>
+
+    <string name="assignto">Assigned to…</string>
+
+    <string name="assignedBy">Assigned by…</string>
+
+    <string name="save">Save Chore</string>
+
+    <string name="image_description">Icon of a Chore</string>
+
+    <string name="menu_title">Add Chore</string>
+    <string name="chore_name">Chore Name</string>
+    <string name="date_12_april_2017">date: 12 April 2017</string>
+    <string name="assignedby_3">AssignedBy:</string>
+    <string name="assigndby_2">AssigndBy</string>
+    <string name="assigndby_4">AssigndBy</string>
 </resources>
